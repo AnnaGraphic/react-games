@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      <h1>simple quiz games</h1>
+    <h1>app</h1>
     </>
   )
 }
