@@ -6,3 +6,5 @@ This is a small collection of javascript games build in react - enjoy!
   - [ ] nav bar
   
 - [ ] 🛣️ routing
+- [ ] 🎨 styling
+  - [ ] how to set up css
