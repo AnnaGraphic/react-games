@@ -1,4 +1,8 @@
 // todo: add links
 export const navlinks = {
-  home: '/home',
+  Home:  '/', 
+  404: '/notfound',
+  Memory: '/memory',
+  "Mega Mario": '/megamario',
+  "Quiz Game": '/quizgame',
 }

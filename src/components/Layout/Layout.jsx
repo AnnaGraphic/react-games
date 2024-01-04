@@ -1,5 +1,11 @@
+import { Nav } from "../Nav/Nav";
+import { Outlet } from "react-router-dom";
+
 export function Layout () {
   return (
-    <h1>layout</h1>
+    <>
+    <Nav />
+    <Outlet />
+    </>
   )
 }
