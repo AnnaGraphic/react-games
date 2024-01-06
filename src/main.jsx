@@ -8,7 +8,7 @@ import { Memory } from './components/Memory/Memory.jsx';
 import { QuizGame } from './components/QuizGame/QuizGame.jsx';
 import {navlinks} from './components/Nav/navlinks.js';
 import { MegaMario } from './components/MegaMario/MegaMario.jsx';
-import './index.css'
+import './index.css';
 console.log('navlinks', navlinks.Memory);
 
 const router = createBrowserRouter([
