@@ -5,14 +5,15 @@ This is a small collection of javascript games build in react - enjoy!
 - [ ] 🧩 components
   - [ ] layout
   - [🐼] nav bar - anna
-  - [ ] quiz game
+  - [🐼] quiz game
   - [ ] memory
-    - [ ] board
+    - [ ] board / card?
   - [ ] 404
     - [ ] create a nice 404-page
   - [ ] super mario
-- [ ] 🛣️ routing
-  - [ ] add routes under ./components/Nav/navlinks.js
+  - [ ] buttons ?
+- [X] 🛣️ routing
+  - [X] add routes under ./components/Nav/navlinks.js
 - [ ] 🎨 styling
   - [ ] how to set up css
   - [ ] create favicon
