@@ -10,7 +10,9 @@ export function Nav() {
         <ul>
           {Object.keys(navlinks).map((key) => {
             //console.log(key);
-            return <li key={key}><NavLink to={navlinks[key]}>{key}</NavLink></li>
+            return <li key={key}><NavLink to={navlinks[key]}  className={({ isActive, isPending }) =>
+            isPending ? "pending" : isActive ? "active" : ""
+          }>{key}</NavLink></li>
           })}
         </ul>
       </nav>
